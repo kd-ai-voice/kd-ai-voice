@@ -41,5 +41,5 @@
 
 ### 📫 راه‌های ارتباطی
 
-📧 kazemdelsooz@gmail.com
+📧 kazemdelsooz@gmail.com-kazemdelsooz.dev.ai@gmail.com
 📱 09157930774
