@@ -1,16 +1,45 @@
-## Hi there 👋
+# سلام 👋 من کاظم دلسوز هستم
 
-<!--
-**kd-ai-voice/kd-ai-voice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 هوش مصنوعی |  ماشین، پردازش گفتار و یادگیری عمیق
+🔌 IoT و Embedded Systems | 🧠 LLM و پردازش زبان طبیعی
+💻 مسلط به چند زبان برنامه‌نویسی و کار در تمام لایه‌های یک پروژه — از سخت‌افزار تا فرانت‌اند
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 حوزه‌های تخصصی
+
+**هوش مصنوعی و یادگیری ماشین**
+- یادگیری عمیق، یادگیری تقویتی، ترنسفورمرها، گراف‌ها
+- تشخیص و بازشناسی گفتار، تشخیص هویت گوینده
+- بینایی ماشین: تشخیص و ردیابی اشیا، تشخیص و تحلیل چهره، فرمان تصویری
+- پردازش تصاویر پزشکی (تشخیص دیسک کمر از MRI، تشخیص رتینوپاتی دیابتی)
+- پردازش متن و تحلیل احساسات، چت‌بات
+- تحلیل داده‌های سری‌زمانی (بازارهای مالی)
+
+**IoT و Embedded Systems**
+- طراحی PCB
+- Raspberry Pi, Arduino, ESP, NodeMCU
+- خانه هوشمند
+
+**توسعه نرم‌افزار**
+- زبان‌ها: Python, C#, C, Java, PHP
+- فرانت‌اند: React, Tailwind
+- بک‌اند: Python, JavaScript
+- اندروید: Java
+- DevOps: Docker, Kubernetes
+
+
+---
+
+### 🎓 تحصیلات
+فوق‌لیسانس برق - الکترونیک
+
+### 📜 دوره‌های تخصصی
+یادگیری عمیق، هوش مصنوعی، بینایی ماشین (Coursera) | برنامه‌نویسی اندروید
+
+---
+
+### 📫 راه‌های ارتباطی
+
+📧 kazemdelsooz@gmail.com
+📱 09157930774
